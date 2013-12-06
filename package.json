@@ -1,11 +1,11 @@
 {
-  "name": "geojsonTo",
-  "version": "0.1.0",
+  "name": "geojson2",
+  "version": "0.1.1",
   "description": "a geojson exporting utility belt",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/morganherlocker/geojsonTo.git"
+    "url": "https://github.com/morganherlocker/geojson2.git"
   },
   "keywords": [
     "geojson",
@@ -17,11 +17,12 @@
   "author": "morganherlocker",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/morganherlocker/geojsonTo/issues"
+    "url": "https://github.com/morganherlocker/geojson2/issues"
   },
   "dependencies": {
     "geojson2kml": "~0.1.1",
     "geojson2shape": "~0.2.4",
-    "geojson2csv": "~0.1.1"
+    "geojson2csv": "~0.1.1",
+    "should": "~2.1.1"
   }
 }
