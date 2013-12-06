@@ -3,6 +3,13 @@ geojson2
 
 a geojson exporting utility belt
 
+**Installation**
+
+```bash
+npm install geojson2
+```
+
+**Use**
 
 ```javascript
 geojson2.csv(__dirname+'/in.geojson', __dirname+'/out.csv', function(err){
@@ -18,6 +25,15 @@ geojson2.topojson(__dirname+'/in.geojson', __dirname+'/out.topojson', function(e
 
 })
 ```
+
+**Test**
+
+```bash
+cd test
+mocha .
+```
+
+**Modules**
 
 This module is a utility belt wrapper around the following modules:
 
