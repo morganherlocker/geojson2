@@ -14,10 +14,14 @@ geojson2.shp(__dirname+'/in.geojson', __dirname+'/out.shp', false, function(err)
 geojson2.kml(__dirname+'/in.geojson', __dirname+'/out.kml', function(err){
 
 })
+geojson2.topojson(__dirname+'/in.geojson', __dirname+'/out.topojson', function(err){
+
+})
 ```
 
 This module is a utility belt wrapper around the following modules:
 
-- geojson2csv
-- geojson2shape
-- geojson2kml
+- [geojson2csv](https://github.com/morganherlocker/geojson2csv)
+- [geojson2shape](https://github.com/morganherlocker/geojson2shape)
+- [geojson2kml](https://github.com/morganherlocker/geojson2kml)
+- [geojson2topojson](https://github.com/morganherlocker/geojson2topojson)
