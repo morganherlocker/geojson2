@@ -28,6 +28,7 @@
     "geojson2kml": "~0.1.1",
     "geojson2shape": "~0.2.4",
     "geojson2csv": "~0.1.1",
-    "should": "~2.1.1"
+    "should": "~2.1.1",
+    "geojson2topojson": "~0.1.2"
   }
 }

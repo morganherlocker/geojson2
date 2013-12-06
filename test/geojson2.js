@@ -29,4 +29,13 @@ describe('geojsonTo', function(){
       })
     })
   })
+  it('should take a geojson file and output a topojson file', function(done){
+    geojson2.topojson(__dirname+'/in.geojson', __dirname+'/out.topojson', function(err){
+      if(err) throw err
+      fs.exists(__dirname+'/out.topojson', function(exists){
+        exists.should.be.true
+        done()
+      })
+    })
+  })
 })
