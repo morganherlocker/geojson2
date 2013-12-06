@@ -5,6 +5,8 @@ a geojson exporting utility belt
 
 **Installation**
 
+Note: ogr2ogr is required kml and shp. Run 'brew install gdal' on OSX, or 'sudo apt-get install gdal' on linux.
+
 ```bash
 npm install geojson2
 ```
