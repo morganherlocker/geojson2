@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>OGRGeoJSON</name>
+<Schema name="OGRGeoJSON" id="OGRGeoJSON">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="Date" type="string"></SimpleField>
+	<SimpleField name="Cost" type="string"></SimpleField>
+	<SimpleField name="Departure" type="string"></SimpleField>
+	<SimpleField name="Time" type="string"></SimpleField>
+</Schema>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">6/24/13</SimpleData>
+		<SimpleData name="Cost">$0.00 </SimpleData>
+		<SimpleData name="Departure">L St NE 24, 20002 Washington</SimpleData>
+		<SimpleData name="Time">12:30 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.00829,38.90375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">6/24/13</SimpleData>
+		<SimpleData name="Cost">$10.87 </SimpleData>
+		<SimpleData name="Departure">G Pl NE 23, 20002 Washington</SimpleData>
+		<SimpleData name="Time">12:04 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.00854,38.89954</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">6/19/13</SimpleData>
+		<SimpleData name="Cost">$2.51 </SimpleData>
+		<SimpleData name="Departure">Kearney St NE 1366, 20017 Washington</SimpleData>
+		<SimpleData name="Time">11:09 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98647,38.931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">6/15/13</SimpleData>
+		<SimpleData name="Cost">$5.02 </SimpleData>
+		<SimpleData name="Departure">Irving St NE 1522, 20017 Washington</SimpleData>
+		<SimpleData name="Time">8:57 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98262,38.92901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">6/14/13</SimpleData>
+		<SimpleData name="Cost">$2.09 </SimpleData>
+		<SimpleData name="Departure">15th St NE 3158, 20017 Washington</SimpleData>
+		<SimpleData name="Time">8:15 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98421,38.92981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">6/13/13</SimpleData>
+		<SimpleData name="Cost">$1.25 </SimpleData>
+		<SimpleData name="Departure">9th St NE 3421, 20017 Washington</SimpleData>
+		<SimpleData name="Time">5:56 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.99361,38.93163</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">6/13/13</SimpleData>
+		<SimpleData name="Cost">$3.34 </SimpleData>
+		<SimpleData name="Departure">Lawrence St NE 1348, 20017 Washington</SimpleData>
+		<SimpleData name="Time">8:12 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98702,38.93177</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">6/12/13</SimpleData>
+		<SimpleData name="Cost">$7.11 </SimpleData>
+		<SimpleData name="Departure">John F McCormack Rd NE 3528, 20017 Washington</SimpleData>
+		<SimpleData name="Time">5:54 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.99794,38.94076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">6/7/13</SimpleData>
+		<SimpleData name="Cost">$2.51 </SimpleData>
+		<SimpleData name="Departure">Irving St NE 1530, 20017 Washington</SimpleData>
+		<SimpleData name="Time">8:26 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9826,38.92901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">6/5/13</SimpleData>
+		<SimpleData name="Cost">$2.09 </SimpleData>
+		<SimpleData name="Departure">Jackson St NE 1448, 20017 Washington</SimpleData>
+		<SimpleData name="Time">8:33 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98518,38.92987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">6/3/13</SimpleData>
+		<SimpleData name="Cost">$4.18 </SimpleData>
+		<SimpleData name="Departure">10th St NE 3658, 20017 Washington</SimpleData>
+		<SimpleData name="Time">5:46 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.99284,38.93467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">6/3/13</SimpleData>
+		<SimpleData name="Cost">$4.18 </SimpleData>
+		<SimpleData name="Departure">K St NW 419, 20001 Washington</SimpleData>
+		<SimpleData name="Time">1:04 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.01707,38.90253</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">6/3/13</SimpleData>
+		<SimpleData name="Cost">$7.11 </SimpleData>
+		<SimpleData name="Departure">M St NW 89, 20001 Washington</SimpleData>
+		<SimpleData name="Time">12:12 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.01171,38.90566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">5/17/13</SimpleData>
+		<SimpleData name="Cost">$2.09 </SimpleData>
+		<SimpleData name="Departure">Kearney St NE 1422, 20017 Washington</SimpleData>
+		<SimpleData name="Time">8:46 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98482,38.93109</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">5/10/13</SimpleData>
+		<SimpleData name="Cost">$2.51 </SimpleData>
+		<SimpleData name="Departure">15th St NE 3164, 20017 Washington</SimpleData>
+		<SimpleData name="Time">8:04 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98421,38.92982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">5/9/13</SimpleData>
+		<SimpleData name="Cost">$0.00 </SimpleData>
+		<SimpleData name="Departure">15th St NE 3164, 20017 Washington</SimpleData>
+		<SimpleData name="Time">6:10 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98421,38.92982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">5/9/13</SimpleData>
+		<SimpleData name="Cost">$5.02 </SimpleData>
+		<SimpleData name="Departure">8th St NE 3357, 20017 Washington</SimpleData>
+		<SimpleData name="Time">5:58 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.99493,38.9313</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">5/9/13</SimpleData>
+		<SimpleData name="Cost">$2.09 </SimpleData>
+		<SimpleData name="Departure">Kearney St NE 1420, 20017 Washington</SimpleData>
+		<SimpleData name="Time">8:28 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98531,38.93086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">5/8/13</SimpleData>
+		<SimpleData name="Cost">$1.67 </SimpleData>
+		<SimpleData name="Departure">Hamlin St NE 1226, 20017 Washington</SimpleData>
+		<SimpleData name="Time">8:02 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98993,38.92765</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">5/7/13</SimpleData>
+		<SimpleData name="Cost">$2.09 </SimpleData>
+		<SimpleData name="Departure">Newton St NE 1114, 20017 Washington</SimpleData>
+		<SimpleData name="Time">5:45 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.99125,38.93353</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">5/1/13</SimpleData>
+		<SimpleData name="Cost">$4.18 </SimpleData>
+		<SimpleData name="Departure">John F McCormack Rd NE 3588, 20017 Washington</SimpleData>
+		<SimpleData name="Time">5:51 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.99794,38.94076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">4/30/13</SimpleData>
+		<SimpleData name="Cost">$5.85 </SimpleData>
+		<SimpleData name="Departure">John F McCormack Rd NE 3518, 20017 Washington</SimpleData>
+		<SimpleData name="Time">5:24 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.99794,38.94076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">4/30/13</SimpleData>
+		<SimpleData name="Cost">$2.09 </SimpleData>
+		<SimpleData name="Departure">Kearney St NE 1366, 20017 Washington</SimpleData>
+		<SimpleData name="Time">8:12 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98647,38.931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">4/29/13</SimpleData>
+		<SimpleData name="Cost">$2.09 </SimpleData>
+		<SimpleData name="Departure">Lawrence St NE 767, 20017 Washington</SimpleData>
+		<SimpleData name="Time">5:47 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.99509,38.93137</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">4/19/13</SimpleData>
+		<SimpleData name="Cost">$2.51 </SimpleData>
+		<SimpleData name="Departure">9th St NE, 20017 Washington</SimpleData>
+		<SimpleData name="Time">3:56 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.99377,38.93375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">4/19/13</SimpleData>
+		<SimpleData name="Cost">$2.51 </SimpleData>
+		<SimpleData name="Departure">15th St NE 3164, 20017 Washington</SimpleData>
+		<SimpleData name="Time">8:04 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98421,38.92982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">4/18/13</SimpleData>
+		<SimpleData name="Cost">$10.87 </SimpleData>
+		<SimpleData name="Departure">15th St NE 3164, 20017 Washington</SimpleData>
+		<SimpleData name="Time">10:57 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98421,38.92982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">4/17/13</SimpleData>
+		<SimpleData name="Cost">$4.18 </SimpleData>
+		<SimpleData name="Departure">Newton St NE 1120, 20017 Washington</SimpleData>
+		<SimpleData name="Time">1:53 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.99124,38.93353</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">4/17/13</SimpleData>
+		<SimpleData name="Cost">$2.51 </SimpleData>
+		<SimpleData name="Departure">15th St NE 3160, 20017 Washington</SimpleData>
+		<SimpleData name="Time">8:06 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98421,38.92981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">4/16/13</SimpleData>
+		<SimpleData name="Cost">$2.51 </SimpleData>
+		<SimpleData name="Departure">Bunker Hill Rd NE 1036, 20017 Washington</SimpleData>
+		<SimpleData name="Time">5:56 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.99268,38.93523</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">4/16/13</SimpleData>
+		<SimpleData name="Cost">$2.09 </SimpleData>
+		<SimpleData name="Departure">15th St NE 3164, 20017 Washington</SimpleData>
+		<SimpleData name="Time">7:58 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98421,38.92982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">4/15/13</SimpleData>
+		<SimpleData name="Cost">$2.09 </SimpleData>
+		<SimpleData name="Departure">Perry St NE 1144, 20017 Washington</SimpleData>
+		<SimpleData name="Time">5:55 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.99103,38.9362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">4/15/13</SimpleData>
+		<SimpleData name="Cost">$1.67 </SimpleData>
+		<SimpleData name="Departure">Lawrence St NE 1370, 20017 Washington</SimpleData>
+		<SimpleData name="Time">8:50 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98671,38.93178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">4/12/13</SimpleData>
+		<SimpleData name="Cost">$1.67 </SimpleData>
+		<SimpleData name="Departure">15th St NE 3164, 20017 Washington</SimpleData>
+		<SimpleData name="Time">8:12 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98421,38.92982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">4/11/13</SimpleData>
+		<SimpleData name="Cost">$2.51 </SimpleData>
+		<SimpleData name="Departure">Oakview Ter NE 3732, 20017 Washington</SimpleData>
+		<SimpleData name="Time">6:10 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.99001,38.93551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">4/11/13</SimpleData>
+		<SimpleData name="Cost">$2.09 </SimpleData>
+		<SimpleData name="Departure">14th St NE 3139, 20017 Washington</SimpleData>
+		<SimpleData name="Time">8:11 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9861,38.9297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">3/28/13</SimpleData>
+		<SimpleData name="Cost">$2.09 </SimpleData>
+		<SimpleData name="Departure">12th St NE 3364, 20017 Washington</SimpleData>
+		<SimpleData name="Time">5:49 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9909,38.9312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">3/26/13</SimpleData>
+		<SimpleData name="Cost">$1.67 </SimpleData>
+		<SimpleData name="Departure">14th St NE 3138, 20017 Washington</SimpleData>
+		<SimpleData name="Time">8:39 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9861,38.92921</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">3/19/13</SimpleData>
+		<SimpleData name="Cost">$5.85 </SimpleData>
+		<SimpleData name="Departure">15th St NE 3160, 20017 Washington</SimpleData>
+		<SimpleData name="Time">6:22 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98421,38.92981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">3/19/13</SimpleData>
+		<SimpleData name="Cost">$4.18 </SimpleData>
+		<SimpleData name="Departure">Otis St NE 1076, 20017 Washington</SimpleData>
+		<SimpleData name="Time">5:54 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.99136,38.93452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">3/19/13</SimpleData>
+		<SimpleData name="Cost">$1.67 </SimpleData>
+		<SimpleData name="Departure">15th St NE 3160, 20017 Washington</SimpleData>
+		<SimpleData name="Time">8:06 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98421,38.92981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">3/18/13</SimpleData>
+		<SimpleData name="Cost">$1.67 </SimpleData>
+		<SimpleData name="Departure">10th St NE 3320, 20017 Washington</SimpleData>
+		<SimpleData name="Time">6:13 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.99253,38.93107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">3/15/13</SimpleData>
+		<SimpleData name="Cost">$1.67 </SimpleData>
+		<SimpleData name="Departure">9th St NE 3416, 20017 Washington</SimpleData>
+		<SimpleData name="Time">5:58 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.99387,38.93194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">3/14/13</SimpleData>
+		<SimpleData name="Cost">$10.03 </SimpleData>
+		<SimpleData name="Departure">K St NW 766, 20001 Washington</SimpleData>
+		<SimpleData name="Time">5:31 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.02255,38.90208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">3/13/13</SimpleData>
+		<SimpleData name="Cost">$2.09 </SimpleData>
+		<SimpleData name="Departure">9th St NE, 20017 Washington</SimpleData>
+		<SimpleData name="Time">5:44 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.99377,38.93375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">3/13/13</SimpleData>
+		<SimpleData name="Cost">$2.51 </SimpleData>
+		<SimpleData name="Departure">Jackson St NE 1440, 20017 Washington</SimpleData>
+		<SimpleData name="Time">8:46 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98522,38.92987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">3/7/13</SimpleData>
+		<SimpleData name="Cost">$1.67 </SimpleData>
+		<SimpleData name="Departure">9th St NE 3478, 20017 Washington</SimpleData>
+		<SimpleData name="Time">6:04 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9937,38.93234</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">3/7/13</SimpleData>
+		<SimpleData name="Cost">$2.09 </SimpleData>
+		<SimpleData name="Departure">14th St NE 3134, 20017 Washington</SimpleData>
+		<SimpleData name="Time">8:43 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9861,38.92917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">3/5/13</SimpleData>
+		<SimpleData name="Cost">$1.67 </SimpleData>
+		<SimpleData name="Departure">9th St NE 3473, 20017 Washington</SimpleData>
+		<SimpleData name="Time">6:05 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.99365,38.93214</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">3/5/13</SimpleData>
+		<SimpleData name="Cost">$1.67 </SimpleData>
+		<SimpleData name="Departure">15th St NE 3164, 20017 Washington</SimpleData>
+		<SimpleData name="Time">8:09 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98421,38.92982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">3/4/13</SimpleData>
+		<SimpleData name="Cost">$3.34 </SimpleData>
+		<SimpleData name="Departure">John F McCormack Rd NE 3524, 20017 Washington</SimpleData>
+		<SimpleData name="Time">5:45 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.99794,38.94076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">2/27/13</SimpleData>
+		<SimpleData name="Cost">$6.27 </SimpleData>
+		<SimpleData name="Departure">Jackson St NE 1452, 20017 Washington</SimpleData>
+		<SimpleData name="Time">12:55 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98512,38.92987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">2/26/13</SimpleData>
+		<SimpleData name="Cost">$1.25 </SimpleData>
+		<SimpleData name="Departure">12th St NE 3121, 20017 Washington</SimpleData>
+		<SimpleData name="Time">5:18 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.99048,38.92929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">2/25/13</SimpleData>
+		<SimpleData name="Cost">$1.67 </SimpleData>
+		<SimpleData name="Departure">Kearney St NE 1420, 20017 Washington</SimpleData>
+		<SimpleData name="Time">8:06 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98531,38.93086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">2/22/13</SimpleData>
+		<SimpleData name="Cost">$1.67 </SimpleData>
+		<SimpleData name="Departure">Kearney St NE 1250, 20017 Washington</SimpleData>
+		<SimpleData name="Time">8:32 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98926,38.93093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">2/21/13</SimpleData>
+		<SimpleData name="Cost">$2.09 </SimpleData>
+		<SimpleData name="Departure">Otis St NE 1065, 20017 Washington</SimpleData>
+		<SimpleData name="Time">5:51 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.99141,38.93449</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">2/20/13</SimpleData>
+		<SimpleData name="Cost">$1.67 </SimpleData>
+		<SimpleData name="Departure">10th St NE 3468, 20017 Washington</SimpleData>
+		<SimpleData name="Time">6:04 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.99263,38.93234</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">2/20/13</SimpleData>
+		<SimpleData name="Cost">$2.09 </SimpleData>
+		<SimpleData name="Departure">Jackson St NE 1420, 20017 Washington</SimpleData>
+		<SimpleData name="Time">7:54 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98534,38.92986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">2/19/13</SimpleData>
+		<SimpleData name="Cost">$2.09 </SimpleData>
+		<SimpleData name="Departure">10th St NE 3560, 20017 Washington</SimpleData>
+		<SimpleData name="Time">5:58 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.99269,38.93306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">2/19/13</SimpleData>
+		<SimpleData name="Cost">$1.67 </SimpleData>
+		<SimpleData name="Departure">14th St NE 3159, 20017 Washington</SimpleData>
+		<SimpleData name="Time">8:13 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9861,38.92974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">2/15/13</SimpleData>
+		<SimpleData name="Cost">$5.43 </SimpleData>
+		<SimpleData name="Departure">9th St NE 3468, 20017 Washington</SimpleData>
+		<SimpleData name="Time">5:59 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9937,38.93232</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">2/15/13</SimpleData>
+		<SimpleData name="Cost">$2.09 </SimpleData>
+		<SimpleData name="Departure">15th St NE 3158, 20017 Washington</SimpleData>
+		<SimpleData name="Time">8:13 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98421,38.92981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">2/14/13</SimpleData>
+		<SimpleData name="Cost">$2.09 </SimpleData>
+		<SimpleData name="Departure">9th St NE 3469, 20017 Washington</SimpleData>
+		<SimpleData name="Time">6:03 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.99365,38.9321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">2/14/13</SimpleData>
+		<SimpleData name="Cost">$2.93 </SimpleData>
+		<SimpleData name="Departure">15th St NE 3164, 20017 Washington</SimpleData>
+		<SimpleData name="Time">7:59 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98421,38.92982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">2/13/13</SimpleData>
+		<SimpleData name="Cost">$2.09 </SimpleData>
+		<SimpleData name="Departure">Rhode Island Ave NE 827, 20018 Washington</SimpleData>
+		<SimpleData name="Time">8:17 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.99444,38.92174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">2/13/13</SimpleData>
+		<SimpleData name="Cost">$1.67 </SimpleData>
+		<SimpleData name="Departure">15th St NE 3158, 20017 Washington</SimpleData>
+		<SimpleData name="Time">8:29 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98421,38.92981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">2/12/13</SimpleData>
+		<SimpleData name="Cost">$4.60 </SimpleData>
+		<SimpleData name="Departure">15th St NE 3158, 20017 Washington</SimpleData>
+		<SimpleData name="Time">8:04 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98421,38.92981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">2/12/13</SimpleData>
+		<SimpleData name="Cost">$1.25 </SimpleData>
+		<SimpleData name="Departure">Irving St NE 1536, 20017 Washington</SimpleData>
+		<SimpleData name="Time">7:52 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98258,38.92901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">2/10/13</SimpleData>
+		<SimpleData name="Cost">$10.87 </SimpleData>
+		<SimpleData name="Departure">Hamlin St NE 1352, 20017 Washington</SimpleData>
+		<SimpleData name="Time">12:15 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98621,38.92784</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">2/8/13</SimpleData>
+		<SimpleData name="Cost">$4.18 </SimpleData>
+		<SimpleData name="Departure">10th St NE 3524, 20017 Washington</SimpleData>
+		<SimpleData name="Time">6:04 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.99266,38.9327</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">2/8/13</SimpleData>
+		<SimpleData name="Cost">$2.09 </SimpleData>
+		<SimpleData name="Departure">15th St NE 3164, 20017 Washington</SimpleData>
+		<SimpleData name="Time">8:23 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98421,38.92982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">2/7/13</SimpleData>
+		<SimpleData name="Cost">$2.09 </SimpleData>
+		<SimpleData name="Departure">10th St NE 3662, 20017 Washington</SimpleData>
+		<SimpleData name="Time">5:59 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.99285,38.9347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">2/6/13</SimpleData>
+		<SimpleData name="Cost">$5.02 </SimpleData>
+		<SimpleData name="Departure">7th St NE 3279, 20017 Washington</SimpleData>
+		<SimpleData name="Time">5:46 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.99616,38.93034</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">2/6/13</SimpleData>
+		<SimpleData name="Cost">$2.51 </SimpleData>
+		<SimpleData name="Departure">15th St NE 3160, 20017 Washington</SimpleData>
+		<SimpleData name="Time">8:04 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98421,38.92981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">2/5/13</SimpleData>
+		<SimpleData name="Cost">$1.67 </SimpleData>
+		<SimpleData name="Departure">Monroe St NE 1042, 20017 Washington</SimpleData>
+		<SimpleData name="Time">6:01 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.99143,38.93253</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">2/5/13</SimpleData>
+		<SimpleData name="Cost">$2.93 </SimpleData>
+		<SimpleData name="Departure">15th St NE 3164, 20017 Washington</SimpleData>
+		<SimpleData name="Time">8:09 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98421,38.92982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">2/4/13</SimpleData>
+		<SimpleData name="Cost">$2.09 </SimpleData>
+		<SimpleData name="Departure">9th St NE 3464, 20017 Washington</SimpleData>
+		<SimpleData name="Time">6:14 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9937,38.93231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">2/4/13</SimpleData>
+		<SimpleData name="Cost">$2.09 </SimpleData>
+		<SimpleData name="Departure">15th St NE 2938, 20017 Washington</SimpleData>
+		<SimpleData name="Time">8:05 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98404,38.9277</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">2/1/13</SimpleData>
+		<SimpleData name="Cost">$2.93 </SimpleData>
+		<SimpleData name="Departure">Monroe St NE 929, 20017 Washington</SimpleData>
+		<SimpleData name="Time">6:02 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.99334,38.93241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">2/1/13</SimpleData>
+		<SimpleData name="Cost">$2.51 </SimpleData>
+		<SimpleData name="Departure">15th St NE 3168, 20017 Washington</SimpleData>
+		<SimpleData name="Time">9:02 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98421,38.92983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="Date">1/31/13</SimpleData>
+		<SimpleData name="Cost">$2.51 </SimpleData>
+		<SimpleData name="Departure">Monroe St NE 933, 20017 Washington</SimpleData>
+		<SimpleData name="Time">6:09 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9933,38.93241</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>

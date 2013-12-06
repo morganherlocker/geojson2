@@ -1,0 +1,27 @@
+{
+  "name": "geojsonTo",
+  "version": "0.1.0",
+  "description": "a geojson exporting utility belt",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/morganherlocker/geojsonTo.git"
+  },
+  "keywords": [
+    "geojson",
+    "conversion",
+    "gis",
+    "csv",
+    "convert"
+  ],
+  "author": "morganherlocker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morganherlocker/geojsonTo/issues"
+  },
+  "dependencies": {
+    "geojson2kml": "~0.1.1",
+    "geojson2shape": "~0.2.4",
+    "geojson2csv": "~0.1.1"
+  }
+}
