@@ -1,4 +1,4 @@
-geojsonTo
+geojson2
 =========
 
 a geojson exporting utility belt
