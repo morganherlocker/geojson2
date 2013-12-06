@@ -1,6 +1,6 @@
 {
   "name": "geojson2",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "description": "a geojson exporting utility belt",
   "main": "index.js",
   "repository": {
@@ -12,6 +12,11 @@
     "conversion",
     "gis",
     "csv",
+    "shp",
+    "shape",
+    "kml",
+    "topojson",
+    "topology",
     "convert"
   ],
   "author": "morganherlocker",
